@@ -1,8 +1,7 @@
 # E
 
-Hello World
-
-Member
+Hello World!!
+members : 
 
 Dohyun Kim
 Kayoung Lee
