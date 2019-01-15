@@ -1,6 +1,5 @@
 # E
 
-Hello World!!
 members : 
 
 Dohyun Kim
